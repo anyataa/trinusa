@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "trinusa"
+    }
+  },
+  "defaultProject": "trinusa",
+  "cli": {
+    "analytics": "65fc60b7-b70f-4b29-a16c-10d0967d290a"
+  }
 }
